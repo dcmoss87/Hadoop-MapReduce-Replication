@@ -78,7 +78,6 @@ if __name__ == "__main__":
     print(name)
   print('*'*20)
 
-  # reduceStep function with thread pool
   x = []
 
   reduceStep(res, x)
